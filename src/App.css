@@ -1,0 +1,149 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* nav css */
+.search {
+  margin: auto;
+  margin-top: 0%;
+  justify-content: space-between;
+}
+
+
+
+/* card css */
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  /* Adjust alignment as needed */
+  margin-top: 30px;
+  margin-left: 60px;
+  margin-right: 60px;
+
+}
+
+.card {
+  width: 400px;
+  height: 600px;
+  margin: 30px;
+}
+
+.maincard {
+  width: 707px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+
+/* image theme */
+
+.imagetheme {
+  display: flex;
+
+  width: 250px;
+  justify-content: space-between;
+}
+
+.singlepage {
+  display: flex;
+  background-color: #004e4e;
+  padding-bottom: 10px;
+  padding-top: 30px;
+
+}
+
+.singleimage {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  overflow-x: hidden;
+
+
+}
+
+.button {
+  margin-right: 20px;
+}
+
+
+.extendproduct {
+  display: flex;
+  background-color: #004e4e;
+ 
+}
+.btn{
+  margin-left: 20px;
+
+}
+ 
+.heading{
+  display: flex;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  background-color: #004e4e;
+  padding-bottom: 10px;
+
+}
+
+.links{
+  text-decoration: none;
+  color: rgb(146, 50, 255);
+  font-weight: 600;
+}
+.links:hover{
+  color: #ff1670;
+  transition: 0.5s ease;
+}
+
+.navs{
+  margin-left: 30px;
+ font-weight: 600;
+ cursor: pointer;
+ 
+}
+
+.serchbutton{
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  font-weight: 600;
+  background-color: #f0e800;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 5px;
+  display: inline-block;
+}
+.serchbutton:hover{
+  transition: 0.8s;
+  color: beige;
+  background-color: #9216ff;
+}
+
+.mainnav{
+  position: fixed;
+}
+
+.h4{
+  margin-left: 30px;
+  font-family: monospace;
+}
+
+.navbox{
+  margin: auto;
+  justify-content: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #1a1a1a;
+  color: #36ff5b;
+}
+.navboxtab{
+  margin-right: 25px;
+}
+
+.ms{
+  width: 500px;
+  margin-left: 400px;
+}

@@ -1,0 +1,45 @@
+.linkss a {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: #e8e8e8;
+    color: #333;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+    margin-bottom: 20px;
+  }
+  
+  .linkss a:hover {
+    background-color: #ffc825;
+    color: #000000;
+  }
+  .ap {
+    text-align: center;
+    margin-top: 30px;
+  }
+  
+  .linkss {
+    margin-top: 20px;
+  }
+  h2{
+    font-weight: 400;
+  }
+  h5{
+    font-weight: 400;
+  }
+
+  .devb{
+    background-color: #00434b;
+    height: 90vh;
+    color: #fff;
+  }
+  .pageTitle {
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    font-family: monospace;
+    font-size: 2vw;
+    padding-top: 130px;
+    color: rgb(255, 28, 107);
+  }
